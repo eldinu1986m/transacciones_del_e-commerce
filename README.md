@@ -19,3 +19,4 @@ In real-world financial systems, standard accuracy is misleading (a naive model 
 
 ## 🚀 Tech Stack
 - **Python 3.14:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+![Visualización del Análisis](./output_2_0.png)
